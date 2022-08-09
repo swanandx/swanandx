@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Swanand (swanandx)</h1>
+<p align='center'> 
+<a href="https://www.linkedin.com/in/swanandx/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_swanandx"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/swanandx"><img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"></a>&nbsp;&nbsp;
+<h3 align="center">Hacker / Developer</h3>
 
-<!--
-**swanandx/swanandx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/_swanandx" target="blank"><img src="https://img.shields.io/twitter/follow/_swanandx?logo=twitter&style=for-the-badge" alt="_swanandx" /></a> </p>
 
-Here are some ideas to get you started:
+```rust
+struct Swanand;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+impl Swanand {
+    fn whoami() -> &'static str {
+      "Hey 👋, I'm swanandx and I'm a hacker who loves to build cool stuff"
+    }
+}
+
+impl Developer for Swanand {
+    fn code() -> &'static str {
+        r#"I build _blazingly fast_ tools for cyber security,
+           create games, websites, apps etc.
+
+           Lanuages - Rust, Python, C, C++, JS/TS, Assembly/WebAssembly
+           Technologies - Actix, Yew, React, GoDot, Flutter
+        "#
+    }
+}
+
+impl Hacker for Swanand {
+    fn hack() -> &'static str {
+        r#"I love to hack on TryHackMe and play various CTFs.
+           Apart from that, I make software to help others!
+           
+           RE & PWN is <3
+        "#
+    }
+}
+```
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/swanandx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="swanandx" /></a></p><br><br>
+
+<br />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=swanandx&show_icons=true&theme=dark&locale=en&layout=compact" alt="swanandx" /></p>
