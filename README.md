@@ -40,6 +40,3 @@ impl Hacker for Swanand {
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/swanandx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="swanandx" /></a></p><br><br>
-
-<br />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=swanandx&show_icons=true&theme=dark&locale=en&layout=compact" alt="swanandx" /></p>
