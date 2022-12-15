@@ -21,7 +21,7 @@ impl Developer for Swanand {
         r#"I build _blazingly fast_ tools for cyber security,
            create games, websites, apps etc.
 
-           Lanuages - Rust, Python, C, C++, JS/TS, Assembly/WebAssembly
+           Languages - Rust, Python, C, C++, JS/TS, Assembly/WebAssembly
            Technologies - Actix, Yew, React, GoDot, Flutter
         "#
     }
